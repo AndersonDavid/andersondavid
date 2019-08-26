@@ -46,7 +46,7 @@
 /* ===== HOME ===== */
 
 .home {
-  margin-left: -10vw;
+  margin-left: 10vw;
 }
 
 .wrapper.home .container-home {
@@ -60,8 +60,8 @@
   background: blue;
   max-width: 500px;
   height: 3px;
-  background-size: 500%;
-  background-image: linear-gradient(270deg, #ec0cb8, #9341d2, #00d7ff, #e90db8);
+  background-size: 400%;
+  background-image: linear-gradient(270deg, #e90db8, #9341d2, #00d7ff, #e90db8);
   animation: bar 8s infinite linear;
 }
 
