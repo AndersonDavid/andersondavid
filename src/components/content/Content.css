@@ -1,0 +1,23 @@
+.content-main {
+  flex: 1;
+}
+
+.content-main .limites-page {
+  max-width: 1200px;
+}
+
+.switch-pages {
+  background-color: red;
+  position: relative;
+}
+
+.switch-pages .page {
+  position: fixed;
+  width: 80%;
+  top: 100vh;
+  transition: 0.7s;
+}
+
+.switch-pages .page.open {
+  top: 0;
+}
