@@ -12,7 +12,6 @@ I used Redux to help to share the current page for all website.
 - [ ] Responsive to Tablets
 - [ ] Responsive to Phones
 
-Feel free to clone and use how you wanna.
 After clone you need run:
 
 `yarn start`
